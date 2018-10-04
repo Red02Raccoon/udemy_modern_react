@@ -8,6 +8,7 @@ class SearchBar extends Component {
       inputValue: ""
     };
   }
+  
   render() {
     return (
       <div className="search-bar">
